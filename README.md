@@ -123,5 +123,6 @@ This project was built and simulated in **Xilinx Vivado** (Behavioral Simulation
 
 ---
 ## Author
-Rithwik kusuma Final Year B.Tech — Electrical and Electronics Engineering
-NIT Warangal
+Harshitha Chakinala
+Final Year B.Tech — Electrical Engineering
+NIT Durgapur
